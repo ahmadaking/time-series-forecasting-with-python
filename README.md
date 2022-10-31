@@ -291,3 +291,6 @@ There are several models we have not tried in this tutorials as they come from t
 # Contributing
 Want to see another model tested? Do you have anything to add or fix? I'll be happy to talk about it! Open an issue/PR :) 
 
+
+# An overview of the architecture and the implementation details of the most important Deep Learning algorithms for Time Series Forecasting
+https://towardsdatascience.com/time-series-forecasting-with-deep-learning-and-attention-mechanism-2d001fc871fc
